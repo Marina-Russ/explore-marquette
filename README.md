@@ -17,3 +17,4 @@
 #### Features:
   * CSS FlexBox
   * JavaScript Prompt pop-ups
+  * Responsive Design
